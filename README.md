@@ -1,27 +1,124 @@
 # Clippor
 
-Clippor 的官网静态页面项目，用于展示产品定位与主视觉。
+> A faster, lighter clipboard manager for macOS.
 
-## 文件结构
+Clippor is a native macOS clipboard manager designed for fast, focused workflows. It lives in your menu bar and helps you quickly revisit, preview, search, and reuse copied content without breaking your flow.
 
-- `index.html`：首页内容
-- `styles.css`：页面样式
-- `assets/`：图片与图标资源
+**Coming soon on the Mac App Store.**
 
-## 本地预览
+---
 
-这是一个纯静态站点，不需要构建。
+## Overview
 
-可以直接打开 `index.html`，或者在项目目录启动一个静态文件服务，例如：
+Whether you're writing, coding, designing, collecting links, or moving assets between apps, Clippor keeps your clipboard history close at hand so important content is always easy to find again.
 
-```bash
-python3 -m http.server 8000
-```
+Clippor is built to feel at home on macOS: lightweight, visual, keyboard-friendly, and ready whenever you need it.
 
-然后访问 `http://localhost:8000`。
+---
 
-## 部署
+## Key Features
 
-将仓库根目录作为静态站点目录发布即可，当前线上域名为：
+- **Clipboard history**  
+  Automatically keeps track of recently copied content.
 
-- `http://clippor.quentinqi.cn`
+- **Fast menu bar access**  
+  Open your clipboard history instantly from the menu bar or with a keyboard shortcut.
+
+- **Search and quick filtering**  
+  Find the exact item you copied in seconds.
+
+- **Visual preview**  
+  Browse content in a clear, card-based layout with preview support.
+
+- **Multiple content types**  
+  Supports text, links, images, files, and colors.
+
+- **Pin important items**  
+  Keep frequently used content available when you need it.
+
+- **Flexible history management**  
+  Control retention and clean up clipboard history when needed.
+
+- **Custom shortcuts and sound feedback**  
+  Tailor the experience to your own workflow.
+
+---
+
+## Why Clippor
+
+Clippor is designed for people who copy and paste all day:
+
+- developers working with commands and code snippets
+- designers collecting colors, images, and assets
+- writers and marketers managing drafts and links
+- anyone who wants a faster, calmer clipboard workflow on Mac
+
+Instead of treating the clipboard as a single temporary slot, Clippor turns it into a searchable, reusable workspace.
+
+---
+
+## App Store Description
+
+Clippor is a lightweight clipboard manager for macOS that helps you quickly revisit, preview, search, and reuse what you copied before.
+
+Whether you're working with text, links, images, colors, or files, Clippor keeps your clipboard history close at hand so you can stay focused and move faster.
+
+### Highlights
+
+- Clipboard history in the menu bar
+- Fast keyboard shortcut access
+- Search and quick filtering
+- Visual card-based preview
+- Support for text, links, images, files, and colors
+- Pin important items
+- Flexible history management
+- Custom shortcuts and sound feedback
+
+Clippor is designed to feel native, fast, and unobtrusive — a clipboard history tool that fits naturally into your Mac workflow.
+
+---
+
+## App Store Metadata
+
+### Name
+**Clippor**
+
+### Subtitle
+**A faster clipboard manager for Mac**
+
+### Keywords
+`clipboard`, `clipboard manager`, `copy`, `paste`, `history`, `menu bar`, `productivity`, `shortcut`, `text`, `image`
+
+### Category
+**Productivity**
+
+### Platform
+**macOS**
+
+### Availability
+**Coming soon**
+
+---
+
+## Screenshots
+
+App Store screenshots coming soon.
+
+Suggested screenshot themes:
+- Clipboard history in one shortcut
+- Search and quickly find copied items
+- Preview text, links, images, and files
+- Pin important content
+- Native macOS menu bar workflow
+
+---
+
+## Privacy
+
+Clippor primarily processes and stores clipboard history locally on the device to help users review, search, and reuse copied content more efficiently.
+
+---
+
+## Support
+
+For support or product questions, please open an issue on GitHub.
